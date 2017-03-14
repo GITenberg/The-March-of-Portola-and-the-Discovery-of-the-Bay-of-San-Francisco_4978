@@ -1,5 +1,8 @@
 _repo: The-March-of-Portola-and-the-Discovery-of-the-Bay-of-San-Francisco_4978
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Molera, E. J. (Eusebius Joseph)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '1613'
     url: http://www.gutenberg.org/2009/agents/1613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4978#The-March-of-Portola-and-the-Discovery-of-the-Bay-of-San-Francisco
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
